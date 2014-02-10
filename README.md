@@ -1,4 +1,6 @@
 learning-c
 ==========
 
-get a random string from message array
+This is my read me file, if you dont like it. Dont like it.
+
+EOF();
